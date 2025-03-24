@@ -14,7 +14,7 @@ export default function RetroGameLanding() {
       <header className="relative z-20 border-b border-purple-900/50 backdrop-blur-sm bg-black/40">
         <div className="container mx-auto px-4 py-4 flex justify-between items-center">
           <div className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500 animate-pulse">
-            BG'S GAME
+            BG&#39;S GAME
           </div>
           <Button
             variant="outline"
@@ -33,7 +33,7 @@ export default function RetroGameLanding() {
             <div className="grid md:grid-cols-2 gap-8 items-center">
               <div className="space-y-6 text-center md:text-left">
                 <h1 className="text-4xl md:text-5xl font-bold leading-tight text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-red-500">
-                  ¡BG'S GAME!
+                  ¡BG&#39;S GAME!
                   ENFRENTA EL DESAFÍO Y SOBREVIVE
                 </h1>
                 <p className="text-purple-200 max-w-md mx-auto md:mx-0">
@@ -57,7 +57,7 @@ export default function RetroGameLanding() {
                     src="/Kirby_1.webp"
                     width={600}
                     height={400}
-                    alt="Bg's Game Combat Scene"
+                    alt="Bgs Game Combat Scene"
                     className="w-full h-auto object-cover"
                   />
                   <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent"></div>
@@ -121,7 +121,7 @@ export default function RetroGameLanding() {
               <h2 className="text-3xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-500">
                 CARACTERÍSTICAS
               </h2>
-              <p className="text-purple-300 mt-2">Descubre lo que hace único a BG's Game</p>
+              <p className="text-purple-300 mt-2">Descubre lo que hace único a BG&#39;s Game</p>
             </div>
 
             <div className="grid md:grid-cols-2 gap-8">
@@ -195,7 +195,7 @@ export default function RetroGameLanding() {
                     src="/Kirby_1.webp"
                     width={1280}
                     height={720}
-                    alt="Bg's Game Gameplay"
+                    alt="Bgs Game Gameplay"
                     className="w-full h-full object-cover"
                   />
                   <div className="absolute inset-0 flex items-center justify-center">
@@ -275,9 +275,9 @@ export default function RetroGameLanding() {
             <div className="mb-6 md:mb-0">
               <div className="text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-pink-500 flex items-center">
                 <Gamepad2 className="mr-2 h-6 w-6 text-purple-500" />
-                BG'S GAME
+                BGS GAME
               </div>
-              <p className="text-purple-400 text-sm mt-2">© 2025 BG's Game. All rights reserved.</p>
+              <p className="text-purple-400 text-sm mt-2">© 2025 BGs Game. All rights reserved.</p>
             </div>
 
             <div className="flex gap-4">
